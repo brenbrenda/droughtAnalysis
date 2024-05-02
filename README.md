@@ -24,14 +24,22 @@ from the website
 
 ## Repository Structure
 .
-├── Albeny.csv                    # reformatted data for Albeny (monthly)
-├── rainfull_Albeny.csv           # historical rainfall data for Albeny(daily)  
-├── Mississippi.csv               # reformatted data for Mississippi (monthly)
-├── rainfull_Mississippi.csv      # historical rainfall data for Mississippi(daily)
-├── Mississippi and Albeny.ipynb # main notebook to generate forecasts
-├── environment.yml          # conda environment specification
+├── Albeny.csv                    
+├── rainfull_Albeny.csv           
+├── Mississippi.csv               
+├── rainfull_Mississippi.csv      
+├── Mississippi and Albeny.ipynb 
+├── environment.yml          
 └── README.md
 
+
+Albeny.csv                    # reformatted data for Albeny (monthly)
+rainfull_Albeny.csv           # historical rainfall data for Albeny(daily)  
+Mississippi.csv               # reformatted data for Mississippi (monthly)
+rainfull_Mississippi.csv      # historical rainfall data for Mississippi(daily)
+Mississippi and Albeny.ipynb # main notebook to generate forecasts
+environment.yml          # conda environment specification
+README.md
 
 
 
