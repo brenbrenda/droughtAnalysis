@@ -16,6 +16,10 @@ the notebook does the following:
 from monthly rainfall data from 2000-2024 forecast future rainfall using models.
 from the website
 
+## Model usage
+SVR
+SARIMA
+LSTM
 
 
 ## Repository Structure
