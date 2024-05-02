@@ -1,0 +1,17 @@
+name: drought_prediction_US
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - statsmodels
+  - pmdarima
+  - scikit-learn
+  - keras
+  - tensorflow
+  - pip:
+    - PyWavelets
+    - pmdarima
+    - keras-tuner
