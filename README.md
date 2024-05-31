@@ -14,7 +14,7 @@ the notebook does the following:
 
 ## data collection
 from monthly rainfall data from 2000-2024 forecast future rainfall using models.
-from the website
+from the website in the University of Missouri{http://agebb.missouri.edu/weather/history/}.
 
 ## Model usage
 - SVR
